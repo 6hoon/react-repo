@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const Blub = () => {
+const Bulb = () => {
   let [light, setLight] = useState("OFF");
 
   console.log(light);
@@ -20,4 +20,4 @@ const Blub = () => {
     </>
   );
 };
-export default Blub;
+export default Bulb;

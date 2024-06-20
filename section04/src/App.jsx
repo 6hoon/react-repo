@@ -1,5 +1,5 @@
 import "./App.css";
-import Blub from "./components/Blub";
+import Bulb from "./components/Bulb";
 import Counter from "./components/Counter";
 
 // root component
@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <Blub />
+      <Bulb />
       <Counter />
     </>
   );
