@@ -1,0 +1,13 @@
+.Controller {
+  text-align: center;
+}
+
+.Controller > button {
+  width: 60px;
+  font-size: 15px;
+  font-weight: 900;
+  margin: 0 5px;
+  padding: 3px;
+  border-radius: 5px;
+  background-color: lightgray;
+}

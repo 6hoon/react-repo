@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+}
+.App {
+  width: 500px;
+  border: 1px dotted black;
+  margin: 30px auto;
+}
+
+.App > h1 {
+  text-align: center;
+}
+
+.App > section {
+  background-color: grey;
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 20px;
+}
