@@ -1,0 +1,19 @@
+.RegMember > form {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.RegMember input {
+  width: 80%;
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.RegMember button {
+  width: 100px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}

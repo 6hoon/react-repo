@@ -1,0 +1,10 @@
+.Header {
+  background-color: rgb(247, 241, 234);
+  padding: 5px;
+  border-radius: 10px;
+}
+.Header > p {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(13, 112, 199);
+}

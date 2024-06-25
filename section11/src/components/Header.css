@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    width: 500px;
+    height: 200px;
+}
+
+h4 {
+    color: #6c757d;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: #343a40;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #6c757d;
+}

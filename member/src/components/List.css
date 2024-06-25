@@ -1,0 +1,22 @@
+.List {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+.Search {
+  display: flex;
+  width: 80%;
+  gap: 10px;
+}
+.Search > input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.Search > button {
+  width: 80px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}

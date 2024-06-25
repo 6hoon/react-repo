@@ -1,0 +1,29 @@
+.memberList {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+  margin-bottom: 10px;
+  background-color: white;
+  gap: 10px;
+}
+
+.memberList > input {
+  width: 20px;
+  position: relative;
+  top: 10px;
+}
+.memberList > .name {
+  flex: 1;
+}
+
+.memberList > button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #343a40;
+  color: white;
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.Member {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid grey;
+}
+.Member > input {
+  width: 20px;
+}
+.Member .name {
+  flex: 1;
+}
+.Member > button {
+  width: 50px;
+  padding: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
