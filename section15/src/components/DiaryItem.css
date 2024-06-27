@@ -1,0 +1,19 @@
+.DiaryItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.DiaryItem .img_section img {
+  width: 80px;
+  height: 80px;
+  cursor: pointer;
+}
+.DiaryItem .info_section {
+  flex: 1;
+  font-size: 1em;
+  padding: 10px;
+}
+.info_section .create_date {
+  font-weight: 900;
+}

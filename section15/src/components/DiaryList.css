@@ -1,0 +1,31 @@
+.DiaryList {
+  margin-top: 20px;
+}
+
+.DiaryList .menu_bar {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+.menu_bar > select {
+  padding: 10px 20px;
+  font-size: 1em;
+  font-weight: bold;
+  background-color: lightgrey;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.menu_bar > select:focus {
+  border: none;
+}
+
+.menu_bar > select > option {
+  background-color: white;
+}
+
+.menu_bar button {
+  flex: 1;
+}

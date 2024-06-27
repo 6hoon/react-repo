@@ -1,0 +1,16 @@
+.EmotionItem {
+  border-radius: 10px;
+  background-color: lightgray;
+  margin-bottom: 10px;
+  text-align: center;
+  cursor: pointer;
+  padding: 15px;
+}
+.emotion_img {
+  width: 60px;
+}
+.emotion_name {
+  margin-top: 10px;
+  font-size: 1.5em;
+  font-weight: 900;
+}
