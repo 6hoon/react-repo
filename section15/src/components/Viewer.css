@@ -1,0 +1,41 @@
+.Viewer {
+  margin-top: 40px;
+}
+.img_section {
+  text-align: center;
+}
+.img_section h3 {
+  font-size: 2em;
+  font-weight: 900;
+}
+
+.emotion_img_wrapper {
+  border-radius: 10px;
+  margin: 0 auto;
+  width: 200px;
+  background-color: lightgray;
+  padding: 20px;
+}
+.emotion_img_wrapper div {
+  margin-top: 20px;
+  font-size: 25px;
+  font-size: 2em;
+}
+.content_section {
+  text-align: center;
+  margin: 0 auto;
+  width: 90%;
+  margin-top: 40px;
+}
+.content_section h3 {
+  font-size: 2em;
+  font-weight: 900;
+}
+.content_section > p {
+  font-size: 1.5em;
+  font-weight: 600;
+  text-align: left;
+  padding: 20px;
+  background-color: lightgray;
+  height: 200px;
+}

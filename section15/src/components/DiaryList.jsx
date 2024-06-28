@@ -47,7 +47,6 @@ const DaiaryList = ({ data }) => {
           {sortedData.map((e) => (
             <DiaryItem key={e.id} {...e} />
           ))}
-          ;
         </div>
       </div>
     </>

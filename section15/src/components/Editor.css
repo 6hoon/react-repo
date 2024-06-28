@@ -25,6 +25,7 @@
   height: 150px;
   resize: vertical;
   box-sizing: border-box;
+  font-size: 1.2em;
 }
 .button_section {
   display: flex;
